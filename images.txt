@@ -1,1 +1,2 @@
 calciumion/new-api:v1.0.0-rc.36
+oven/bun:1-alpine
