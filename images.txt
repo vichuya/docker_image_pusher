@@ -1,3 +1,4 @@
 calciumion/new-api:v1.0.0-rc.36
 calciumion/new-api:v1.0.0-rc.47
 oven/bun:1-alpine
+nginx:1.31.7
